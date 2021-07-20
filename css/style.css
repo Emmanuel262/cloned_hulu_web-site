@@ -500,7 +500,7 @@ h4 {
   }
 
   .live-sports {
-    background: url(../img/live-sports-small.jpg) no-repeat center center /
+    background: url("../img/live-sports-small.jpg") no-repeat center center /
       cover;
   }
 
